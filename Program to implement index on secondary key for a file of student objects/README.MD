@@ -14,4 +14,6 @@ Data file has 5 fields, name, roll number and 3 subjects’ marks. Secondary ind
 
 4)	Search for the name entered in the secondary index file. If found, and if duplicate names exist, roll number of the student also to be entered. With the help of corresponding roll number, retrieve the RRN from the primary index file. Display the data on the output console corresponding to the RRN retrieved.
 
-5)	To delete a record, 
+5)	To delete a record from the data file.
+
+6) Update the index file to reflect the changes in the data file.
