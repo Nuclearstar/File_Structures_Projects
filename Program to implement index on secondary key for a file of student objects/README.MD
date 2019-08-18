@@ -1,8 +1,12 @@
+# Program to implement index on secondary key for a file of student objects
+
 Both the files are the codes implementing index on secondary key for a file of student objects.
 
-First file is the code written in C++ whereas the second one is implemented using C.
+1. The file secind.cpp is implemented using C++.
+2. The file secondkey.c is implemented using C.
 
-ALGORITHM:
+## ALGORITHM:
+
 Secondary indexing
 
 1)	Open 3 files, to store primary index, secondary index and the data.
